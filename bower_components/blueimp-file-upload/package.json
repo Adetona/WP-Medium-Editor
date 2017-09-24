@@ -1,0 +1,114 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "blueimp-file-upload@~9.12.1",
+        "scope": null,
+        "escapedName": "blueimp-file-upload",
+        "name": "blueimp-file-upload",
+        "rawSpec": "~9.12.1",
+        "spec": ">=9.12.1 <9.13.0",
+        "type": "range"
+      },
+      "C:\\Users\\Adetona\\node_modules\\medium-editor-insert-plugin"
+    ]
+  ],
+  "_from": "blueimp-file-upload@>=9.12.1 <9.13.0",
+  "_id": "blueimp-file-upload@9.12.6",
+  "_inCache": true,
+  "_location": "/blueimp-file-upload",
+  "_nodeVersion": "6.8.1",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/blueimp-file-upload-9.12.6.tgz_1476695171774_0.6059829734731466"
+  },
+  "_npmUser": {
+    "name": "blueimp",
+    "email": "mail@blueimp.net"
+  },
+  "_npmVersion": "3.10.8",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "blueimp-file-upload@~9.12.1",
+    "scope": null,
+    "escapedName": "blueimp-file-upload",
+    "name": "blueimp-file-upload",
+    "rawSpec": "~9.12.1",
+    "spec": ">=9.12.1 <9.13.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/medium-editor-insert-plugin"
+  ],
+  "_resolved": "https://registry.npmjs.org/blueimp-file-upload/-/blueimp-file-upload-9.12.6.tgz",
+  "_shasum": "0ad01e949d4232452e8b5d4c92e948caa9b7b155",
+  "_shrinkwrap": null,
+  "_spec": "blueimp-file-upload@~9.12.1",
+  "_where": "C:\\Users\\Adetona\\node_modules\\medium-editor-insert-plugin",
+  "author": {
+    "name": "Sebastian Tschan",
+    "url": "https://blueimp.net"
+  },
+  "bugs": {
+    "url": "https://github.com/blueimp/jQuery-File-Upload/issues"
+  },
+  "dependencies": {},
+  "description": "File Upload widget with multiple file selection, drag&amp;drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Eng",
+  "devDependencies": {
+    "bower-json": "0.8.1",
+    "jshint": "2.9.3"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "0ad01e949d4232452e8b5d4c92e948caa9b7b155",
+    "tarball": "https://registry.npmjs.org/blueimp-file-upload/-/blueimp-file-upload-9.12.6.tgz"
+  },
+  "gitHead": "cf2c7465d47bff38a23df0fc6a511070ee75e2bf",
+  "homepage": "https://github.com/blueimp/jQuery-File-Upload",
+  "keywords": [
+    "jquery",
+    "file",
+    "upload",
+    "widget",
+    "multiple",
+    "selection",
+    "drag",
+    "drop",
+    "progress",
+    "preview",
+    "cross-domain",
+    "cross-site",
+    "chunk",
+    "resume",
+    "gae",
+    "go",
+    "python",
+    "php",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "main": "js/jquery.fileupload.js",
+  "maintainers": [
+    {
+      "name": "blueimp",
+      "email": "sebastian.tschan@gmail.com"
+    }
+  ],
+  "name": "blueimp-file-upload",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/blueimp/jQuery-File-Upload.git"
+  },
+  "scripts": {
+    "bower-version-update": "./bower-version-update.js",
+    "lint": "jshint *.js js/*.js js/cors/*.js",
+    "postversion": "git push --tags origin master && npm publish",
+    "preversion": "npm test",
+    "test": "npm run lint",
+    "version": "npm run bower-version-update && git add bower.json"
+  },
+  "title": "jQuery File Upload",
+  "version": "9.12.6"
+}
