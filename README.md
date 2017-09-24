@@ -13,8 +13,7 @@
 
 <!--https://www.youtube.com/watch?v=lpSBaIooX-s&t=108s-->
  
- [![Demo for medium editor for wordpress](http://img.youtube.com/vi/lpSBaIooX-s&t=108s/0.jpg)](
-https://www.youtube.com/watch?v=lpSBaIooX-s&t=108s "Demo for medium editor for wordpress")
+ "[![Demo for medium editor for wordpress](https://img.youtube.com/vi/lpSBaIooX-s/0.jpg)](https://www.youtube.com/watch?v=lpSBaIooX-s)"
  
 == How to Start ==
  
